@@ -1,4 +1,4 @@
-echo ' ---> Hello test new'
+echo ' ---> Hello test neww'
 
 
 sleep 1m
